@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="nome" value="camili"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="sobrenome" value="noronha"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>Clique para adicionar.</p>
+
+</body>
+</html>
